@@ -14,3 +14,7 @@ This repository contains a Jupyter Notebook for performing regression using Pyth
 - numpy  
 - matplotlib  
 - scikit-learn
+
+## Dataset
+
+https://www.kaggle.com/datasets/mirichoi0218/insurance
