@@ -1,20 +1,23 @@
-# Regression ML Project
+# Regression Analysis on Medical Dataset
 
-This repository contains a Jupyter Notebook for performing regression using Python and scikit-learn.
+This project performs regression analysis on a medical dataset using Python and scikit-learn. The goal is to model and predict trends from healthcare-related data using machine learning techniques.
 
-## File
+## Files
 
-- `Regression_ML_python.ipynb`: Main notebook with code and analysis.
+- `Regression_ML_python.ipynb` – Jupyter Notebook with code, visualizations, and analysis
+- `regression_ml_python.py` – Python script version of the notebook
 
 ## Requirements
 
-- Python  
-- Jupyter Notebook  
-- pandas  
-- numpy  
-- matplotlib  
+- Python
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
 - scikit-learn
 
-## Dataset
+## Features
 
-https://www.kaggle.com/datasets/mirichoi0218/insurance
+- Data loading and preprocessing
+- Regression model training and evaluation
+- Data visualization for insights
